@@ -19,4 +19,8 @@ dooooooooooooooooooooooooo&@@oooooob
      `doooooooooooooooooooooob'
 jgs   `dooooooooobodoooooooob'
 dsa
+<<<<<<< HEAD
 modify2
+=======
+modify1
+>>>>>>> a57fc5b444bbd34eba7d16f9c939350704b9d349
